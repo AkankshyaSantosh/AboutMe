@@ -1,0 +1,29 @@
+body {
+  font-family: 'Nunito Sans', sans-serif;
+  background-image: linear-gradient( blue, cyan, yellowgreen );
+}
+div {
+height: 700px;
+width: 700px;
+
+}
+#card{
+    
+    background: white;
+
+    margin: 100px 300px 100px 300px;
+    text-align: center;
+    padding: 10px;
+}
+#card img{
+    width: 200px;
+    height: 250px;
+    border-radius: 50%;
+}
+hr {
+    width: 400px;
+}
+    h1{
+        color: #000000;
+    }
+    
